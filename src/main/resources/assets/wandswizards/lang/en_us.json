@@ -1,0 +1,6 @@
+{
+  "item.wandswizards.ice_wizard_wand" : "Ice Wizard Wand",
+  "creativetab.wandswizards.wands" : "Wands",
+  "effect.wandswizards.frozen" : "Frozen",
+  "effect.wandswizards.frozen.descripton" : "Freezes the mob or player in place"
+}

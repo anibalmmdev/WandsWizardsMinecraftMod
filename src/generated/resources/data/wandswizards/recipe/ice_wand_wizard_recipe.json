@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "ice_wizard_wand",
+  "key": {
+    "G": "minecraft:glowstone_dust",
+    "I": "minecraft:ice",
+    "R": "minecraft:redstone",
+    "U": "minecraft:gunpowder"
+  },
+  "pattern": [
+    " UR",
+    " IG",
+    "I  "
+  ],
+  "result": {
+    "id": "wandswizards:ice_wizard_wand"
+  }
+}
